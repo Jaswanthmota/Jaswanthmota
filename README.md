@@ -1,12 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://jaswanthmota.io)
 <h1 align="center">Hi 👋, I'm Jaswanth Mota</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=740&t=st=1702312434~exp=1702313034~hmac=bcc99380ea9bb46baffb3f19025b3c31cc3ad014d07540f01ce39a0b5fba3f5a">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanthmota&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanthmota" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaswanthmota" alt="jaswanthmota" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaswanthmota](https://github.com/Jaswanthmota)
 
